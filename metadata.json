@@ -1,0 +1,8 @@
+{
+  "name": "Dim GNOME Wayland Screen",
+  "description": "Software screen dimming via overlay for panels where hardware backlight control is unavailable",
+  "uuid": "dim-gnome-wayland-screen@user",
+  "shell-version": ["50"],
+  "version": 1,
+  "url": "https://github.com/langenhagen/dim-gnome-wayland-screen"
+}
